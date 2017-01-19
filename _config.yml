@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Our Study Group
+title: Bioinformatics Study Group
 description: "A study group."
 language: en
 
@@ -19,7 +19,7 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To Our Study Group!"
+headlineSmall: "Welcome!"
 headlineMain: "Let's Work Together"
 
 # Setup Google Calendar
@@ -38,8 +38,8 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 #========================================
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503
+  primary: 67b758
+  secondary: 58b779
   secondary-dark: 333
 
 # Build settings
