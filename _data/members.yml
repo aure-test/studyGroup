@@ -1,6 +1,12 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Aurelia Moser
+  affiliation: Mozilla Science
+  github: auremoser
+  interests:
+    - Programming
+    - Open Science
+- name: Zannah Marsh
+  affiliation: Mozilla Science
+  github: zee-moz
   interests:
     - Programming
     - Open Science
