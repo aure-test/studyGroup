@@ -1,0 +1,10 @@
+---
+title: R noobs Lesson
+text: Some description.
+location: Brooklyn
+link: https://github.com/aure-test/studyGroup/issues/1
+date: 2017-01-20
+startTime: '20:00'
+endTime: '21:00'
+
+---
